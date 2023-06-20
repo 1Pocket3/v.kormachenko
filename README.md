@@ -1,41 +1,33 @@
-I'm Vlad, a frontend engineer with 2+ years of experience in developing modern web applications using React, Redux Bootsrap, Material UI. I'm well-versed in Agile methodology. I'm passionate about creating impactful and user-friendly software that drives the success of projects.
-
-I look forward to the opportunity of working together and making a positive impact! Let's build something great! 🚀
-
-
 # Your Name
 
 ## About Me
 
-Hi there! I'm passionate about coding and exploring new technologies. I enjoy working on projects that challenge me and allow me to grow as a developer.
+Passionate developer with a focus on exploring new technologies and solving challenging problems.
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
-- Version Control: Git
+![Python](https://example.com/python-logo.png) ![JavaScript](https://example.com/javascript-logo.png) ![React](https://example.com/react-logo.png) ![Node.js](https://example.com/nodejs-logo.png) ![HTML](https://example.com/html-logo.png) ![CSS](https://example.com/css-logo.png) ![MySQL](https://example.com/mysql-logo.png) ![MongoDB](https://example.com/mongodb-logo.png) ![Git](https://example.com/git-logo.png)
 
 ## Projects
 
 ### Project 1
 
-- Description: A web application for managing tasks and projects. It allows users to create, update, and delete tasks, assign them to team members, and track progress.
-- Technologies used: React, Node.js, MongoDB
-- GitHub repository: [Link](https://github.com/your-username/project1)
+- Description: A web application for managing tasks and projects.
+- Technologies: ![React](https://example.com/react-logo.png) ![Node.js](https://example.com/nodejs-logo.png) ![MongoDB](https://example.com/mongodb-logo.png)
+- [GitHub Repository](https://github.com/your-username/project1)
 
 ### Project 2
 
-- Description: A Python script that generates automated reports from data collected by IoT devices. It processes sensor data, performs analysis, and generates visualizations.
-- Technologies used: Python, Pandas, Matplotlib
-- GitHub repository: [Link](https://github.com/your-username/project2)
+- Description: Python script for generating automated reports from IoT device data.
+- Technologies: ![Python](https://example.com/python-logo.png) ![Pandas](https://example.com/pandas-logo.png) ![Matplotlib](https://example.com/matplotlib-logo.png)
+- [GitHub Repository](https://github.com/your-username/project2)
 
 ## Experience
 
 ### Software Developer Intern, XYZ Company
 
 - Developed and maintained web applications using React and Node.js.
-- Collaborated with a team to implement new features and fix bugs.
+- Collaborated with a team on feature implementation and bug fixes.
 - Conducted code reviews and participated in daily stand-up meetings.
 
 ## Education
@@ -45,7 +37,7 @@ Hi there! I'm passionate about coding and exploring new technologies. I enjoy wo
 ## Contact
 
 - Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Website: [Your Website](https://www.your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Website](https://www.your-website.com)
 
-Feel free to reach out to me if you have any questions or would like to collaborate on a project. I'm always open to new opportunities and connections!
+Feel free to reach out to me for any inquiries or collaboration opportunities!
